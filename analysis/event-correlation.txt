@@ -1,0 +1,5 @@
+Event Correlation Summary:
+
+- Failed SSH login attempts followed by system service failures.
+- Authentication failures correlated with system alerts.
+- Indicates potential malicious activity.
