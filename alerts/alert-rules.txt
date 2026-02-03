@@ -1,0 +1,8 @@
+ALERT RULE 1:
+Trigger alert if more than 3 failed SSH login attempts occur within 1 minute.
+
+ALERT RULE 2:
+Trigger alert if login attempt is made using invalid usernames.
+
+ALERT RULE 3:
+Trigger alert if authentication failures are followed by system service crashes.
