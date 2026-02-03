@@ -1,0 +1,5 @@
+Anomaly Detection Findings:
+
+- High frequency of failed login attempts in a short time window.
+- Login attempts from invalid user accounts.
+- System temperature warnings detected.
