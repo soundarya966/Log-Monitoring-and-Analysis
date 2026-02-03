@@ -1,0 +1,5 @@
+Analysis of Authentication Logs:
+
+- Multiple failed SSH login attempts detected for root user.
+- Login attempts originated from unknown external IP addresses.
+- Pattern suggests possible brute-force attack.
